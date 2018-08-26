@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class UserInput {
+public class V3Scanner_JGadaleta {
 	public static void main(String [] args) {
 		Scanner //creates the scanner object 
 			input = new Scanner(System.in);

@@ -1,5 +1,5 @@
 
-public class StringExample {
+public class V2StringBasics_JGadaleta {
 	public static void main(String [] args) {
 		int 
 			myInt= 7;
