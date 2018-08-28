@@ -8,13 +8,11 @@ public class V1VarBasics_JGadaleta {
 		double myDouble = 7.3243;
 		float myFloat = 324.3f;
 		
-		char myChar = 'y';
 		
+		char myChar = 'y';
 		boolean myBool = true;
 		//TODO Delete this comment 
 		byte myByte = 127;
-		
-		
 		System.out.println(myNumber);
 		System.out.println(myShort);
 		System.out.println(myLong);
