@@ -11,7 +11,7 @@ public class V1VarBasics_JGadaleta {
 		char myChar = 'y';
 		
 		boolean myBool = true;
-		// TODO Delete this Comment
+		
 		byte myByte = 127;
 		
 		
