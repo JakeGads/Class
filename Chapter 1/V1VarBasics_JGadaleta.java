@@ -7,7 +7,17 @@ public class V1VarBasics_JGadaleta {
 				
 		double myDouble = 7.3243;
 		float myFloat = 324.3f;
+		char 
+			c1 = 69,
+			c2 = 42,
+			c3 = 114;
 		
+		System.out.println(c1 + c2 + c3);
+		
+		int
+			i = 5,
+			z = 2;
+		System.out.println(i + z);
 		
 		char myChar = 'y';
 		boolean myBool = true;
