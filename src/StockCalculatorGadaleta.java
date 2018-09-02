@@ -3,8 +3,11 @@ import java.util.Scanner;
 
 public class StockCalculatorGadaleta {
 
+	/**
+	 * Calculates net gain of a stock deal where the broker will receive 2%
+	 * @param args
+	 */
 	public static void main(String[] args) {
-		
 		DecimalFormat df = new DecimalFormat("#.##"); //converts doubles or floats into strings while cutting off decimal places
 		Scanner kb = new Scanner(System.in); //for scanning
 		

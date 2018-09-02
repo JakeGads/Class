@@ -19,6 +19,8 @@ public class SwitchBasics_JGadaleta {
 			break;
 		default:
 			System.out.println("Command not recognized");
+			break;
 		}
+		input.close();
 	}
 }
